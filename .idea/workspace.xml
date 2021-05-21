@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="173dded7-083b-4b8e-8845-204b253668be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../jonathan-20289/app/Http/Controllers/ClienteController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../jonathan-20289/app/Http/Controllers/ClienteController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jonathan-20289/resources/views/cliente/ingresarcate.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../jonathan-20289/resources/views/cliente/ingresarcate.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jonathan-20289/resources/views/cliente/ingresarcliente.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../jonathan-20289/resources/views/cliente/ingresarcliente.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jonathan-20289/resources/views/cliente/mostrarcate.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../jonathan-20289/resources/views/cliente/mostrarcate.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jonathan-20289/resources/views/cliente/mostrarcliente.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../jonathan-20289/resources/views/cliente/mostrarcliente.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jonathan-20289/resources/views/cliente/mostrardepa.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../jonathan-20289/resources/views/cliente/mostrardepa.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jonathan-20289/resources/views/cliente/mostrarge.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../jonathan-20289/resources/views/cliente/mostrarge.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jonathan-20289/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../jonathan-20289/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jonathan-20289/resources/views/layouts/planilla.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../jonathan-20289/resources/views/layouts/planilla.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jonathan-20289/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../jonathan-20289/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jonathan-20289/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../jonathan-20289/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practica2-20289/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practica2-20289/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1spaRJ64tcpxO3VHgiywc4aypUg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="173dded7-083b-4b8e-8845-204b253668be" name="Default Changelist" comment="" />
+      <created>1621571975522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621571975522</updated>
+      <workItem from="1621571978364" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
